@@ -82,4 +82,4 @@ play_game = input('Do you want to play a game of blackjack? ')
 if play_game == 'y':
     blackjack()
 else:
-    print('Goodbye.
+    print('Goodbye.')
